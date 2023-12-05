@@ -1,5 +1,7 @@
 <h1 align="center"> La API de Rick y Morty </h1>
-<img align="center" src="./images/logo.ico">
+<p align="center">
+  <img src="./images/logo.ico">
+</p>
 
 <h2> ¡Hola!, me llamo Carla 👋 </h2>
 
